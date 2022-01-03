@@ -1,0 +1,75 @@
+@media only screen and (max-width:520px) {
+
+  /* section-2 starts here  */
+    
+  .section-2 .sec-2 .box{
+    width: 100%;
+
+}
+
+
+/* section-2 ends here  */
+
+
+/* section-3 starts here  */
+
+.section-3 .sec-3 .box{
+    width: 100%;
+
+}
+
+
+/* section-3 ends here  */
+
+/* section-4 starts here  */
+.section-4 .sec-4 .box{
+    width: 100%;
+    margin: 5% 1%;
+
+}
+/* section-4 ends here  */
+
+/* section-5 ends here  */
+
+
+.section-5 .sec-5 {
+    width: 100%;
+    height: 100%;
+ }
+ .section-5 .sec-5 .box {
+     width: 100%;
+     height: 15rem;
+     background-color: red;
+     position: unset;
+     
+ }
+ 
+ .section-5 .sec-5 .box .img-box{
+     width: 100%;
+     height: 15rem;
+     position: unset;
+ 
+ }
+ .section-5 .sec-5 .box .img-box img{
+     width: 100%;
+     height: 15rem;
+ }
+ .section-5 .sec-5 .box .content{
+     width: 100%;
+     height: 15rem;
+     /* background-color: green; */
+     position: unset;
+ 
+ }
+ 
+ /* section-5 ends here  */
+ 
+ 
+
+
+
+
+
+
+    
+}

@@ -179,6 +179,9 @@ header ul li img{
     width: 100%;
     background-image: url(./Dev/Banner_2.jpg);
     text-align: center;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 
 }
 .section-3 .sec-3{
@@ -208,7 +211,7 @@ header ul li img{
 .section-4{
     width: 100%;
     text-align: center;
-    padding: 3rem 5rem;
+    padding: 3% 0;
 
 }
 .section-4 .sec-4{
@@ -234,12 +237,12 @@ header ul li img{
 .section-5{
     width: 100%;
     text-align: center;
-    padding: 3rem 5rem;
+    padding: 3% 5%;
     background-color: rgb(247, 247, 247);
 
 }
 .section-5 .sec-5{
-    width: 80%;
+    width: 70%;
     margin: 0 auto;
     display: flex;
     justify-content: space-between;
@@ -340,7 +343,7 @@ header ul li img{
 .section-6{
     width: 100%;
     text-align: center;
-    padding: 3rem 5rem;
+    padding: 3% 5%;
     background-color: rgb(247, 247, 247);
 
 }
@@ -358,6 +361,7 @@ header ul li img{
 .section-6 .sec-6 .box{
     width: 30%;
     background-color: white;
+    margin-bottom: 2rem;
 }
 .section-6 .sec-6 .box .img-box{
     width: 100%;
