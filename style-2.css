@@ -60,6 +60,7 @@
      width: 100%;
      height: 15rem;
      position: unset;
+     margin-bottom: 2rem;
      
  }
  
@@ -67,6 +68,7 @@
      width: 50%;
      height: 15rem;
      position: unset;
+     
  
  }
  .section-5 .sec-5 .box .img-box img{
@@ -81,6 +83,34 @@
  
  }
  
+ .section-5 .sec-5 .box-1{
+    margin: 0;
+    z-index: unset;
+    /* margin-top: 10rem; */
+
+}
+.section-5 .sec-5 .box-2{
+    margin: 0;
+    z-index: unset;
+    /* margin-top: 10rem; */
+}
+.section-5 .sec-5 .box-3{
+    margin: 0;
+    z-index: unset;
+    /* margin-top: 10rem; */
+
+}
+.section-5 .sec-5 .box-4{
+    margin: 0;
+    z-index: unset;
+    /* margin-top: 5rem; */
+
+}
+
+
+
+
+
  /* section-5 ends here  */
  /* section-6 starts here  */
  .section-6 .sec-6 .box{

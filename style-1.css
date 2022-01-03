@@ -328,17 +328,21 @@ header ul li img{
 }
 .section-5 .sec-5 .box-2{
     z-index: 1;
-    top: -6rem;
+    margin-top: -6rem;
+
 }
 .section-5 .sec-5 .box-3{
     z-index: 2;
-    top: -6rem;
+    margin-top: -0rem;
 }
 .section-5 .sec-5 .box-4{
-    z-index: 999;
-    top: -14rem;
+    z-index: 3;
+    margin-top: -7rem;
 }
+
+
 /* section-5 ends here  */
+
 /* section-6 starts here  */
 .section-6{
     width: 100%;
