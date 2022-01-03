@@ -16,7 +16,7 @@
 h3{
     font-size: 2rem;
     color: var(--primary-color);
-    margin: 1rem 0;
+    margin: 2.5rem 0;
 }
 
 .btn-primary{
@@ -308,8 +308,13 @@ header ul li img{
     box-shadow: -.1px -.1px 5px gray;
 
 }
+.section-5 .sec-5 .box .content h4{
+    margin-bottom: 5%;
+
+}
 .section-5 .sec-5 .box .content li{
     list-style: none;
+    color: gray;
 
 }
 
@@ -331,5 +336,52 @@ header ul li img{
     top: -14rem;
 }
 /* section-5 ends here  */
+/* section-6 starts here  */
+.section-6{
+    width: 100%;
+    text-align: center;
+    padding: 3rem 5rem;
+    background-color: rgb(247, 247, 247);
+
+}
+.section-6 .sec-6{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    text-align: left;
+
+    
+}
+
+.section-6 .sec-6 .box{
+    width: 30%;
+    background-color: white;
+}
+.section-6 .sec-6 .box .img-box{
+    width: 100%;
+}
+.section-6 .sec-6 .box .img-box img{
+    width: 100%;
+}
+
+.section-6 .sec-6 .box .content {
+    padding: 1rem 2rem;
+    
+}
+.section-6 .sec-6 .box .content p {
+    font-size: 1.2rem;
+    margin: 1rem 0;
+    
+}
+.section-6 .sec-6 .box .content button {
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+    border: none;
+    background: none;
+    
+}
+/* section-6 ends here  */
 
 
