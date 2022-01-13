@@ -48,6 +48,9 @@
 .section-5 .sec-5 .box .content{
     width: 100%;
 }
+.section-5 .sec-5 .box .content li {
+    font-size: 1rem;
+}
 
 .section-5 .sec-5 .box-2, .box-4{
     flex-direction: column-reverse;

@@ -32,6 +32,26 @@
 @media only screen and (max-width:1024px) {
 
 
+/* header starts here  */
+header .navbar {
+    text-align: center;
+    padding: 1rem 00;
+}
+
+header .navbar .brand-title{
+    display: block;
+}
+header .navbar .navbar-links{
+    display: none;
+}
+
+header .navbar .toggle-button{
+    display: flex;
+}
+
+
+
+/* header ends here  */
 /* section-2 starts here  */
 
 .section-2 .sec-2 .box{

@@ -19,6 +19,9 @@
 .section-5 .sec-5 .box .content{
     width: 40%;
 }
+.section-5 .sec-5 .box .content li {
+    font-size: .6rem;
+}
 
 
 
